@@ -1,9 +1,15 @@
-#                         *Hi I am Gabriel*     
+<h1 align="center"> :rocket: Hi, I'm Gabriel </h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-noronha-2b6568191/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alencar-dev/">
+  </a>
 
-![github](https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif)
+  <a href="mailto:gabrielnoronha.developer@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alencar.development@gmail.com">
+  </a>
+  
 
-![linkedin](https://camo.githubusercontent.com/7f63a551a1dbdce642a9875085570bec49e6cea9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616c656e6361722d6465762f)
 
 <!--
 **gnoronha42/gnoronha42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
