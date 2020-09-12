@@ -13,8 +13,10 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alencar.development@gmail.com">
   </a>
   
-###  Who Am I?
+### :stuck_out_tongue: Who Am I?
 -Front-end web developer and mobile .
+ 
+### :iphone: Technologies	 
  
 ###### Front-end:
 ![HTML Badge](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=white)
@@ -26,4 +28,5 @@
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)	
 
 ###### Mobile Front-end:
-
+![react-native badge](https://img.shields.io/badge/-REACT--NATIVE-purple)
+![kotlin badge](https://img.shields.io/badge/-KOTLIN-orange)
