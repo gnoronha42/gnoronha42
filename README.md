@@ -1,6 +1,6 @@
 ![github](https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif)
 
-<h1 align="center"> :hand: Hi, I'm Gabriel :hand: </h1>
+<h1 align="center"> :hand:Hey guys I'm Gabriel:hand: </h1>
 
 ![github](https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif)
 
