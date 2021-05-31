@@ -8,6 +8,11 @@
   <a href="https://www.linkedin.com/in/gabriel-noronha-2b6568191/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alencar-dev/">
   </a>
+ 
+  
+   <a href="mailto:gabrielnoronha.developer@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alencar.development@gmail.com">
+  </a>
   
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gnoronha42&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&cache_seconds=1800&locale=en" alt="gnoronha42" />
   
@@ -17,10 +22,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnoronha42&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&layout=compact" alt="gnoronha42" /><br><br>
   
   
-  <a href="mailto:gabrielnoronha.developer@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alencar.development@gmail.com">
-  </a>
-  
+ 
 ### :stuck_out_tongue: Who Am I?
 -Front-end web developer and mobile .
  
