@@ -11,7 +11,7 @@
  
   
    <a href="mailto:gabrielnoronha.developer@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alencar.development@gmail.com">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg>
   </a>
   </div>
  <div>
@@ -27,11 +27,11 @@
  
 ###### Front-end:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="30"/>
+<img src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="30"/>
 
-
-
-![CSS Badge](https://img.shields.io/badge/-CSS-085CEA?style=flat-square&logo=CSS3&logoColor=white)	
-![Javascript Badge](https://img.shields.io/badge/-Javascript-edb009?style=flat-square&logo=Javascript&logoColor=white)	
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-237ACD?style=flat-square&logo=Typescript&logoColor=white)	
 ![Angular Badge](https://img.shields.io/badge/-Angular-C4422C?style=flat-square&logo=Angular&logoColor=white)	
 ![SASS Badge](https://img.shields.io/badge/-SASS-CD6799?style=flat-square&logo=SASS&logoColor=white)	
