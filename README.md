@@ -11,11 +11,9 @@
   </a>
  
   
-   <a href="mailto:gabrielnoronha.developer@gmail.com">
      
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg alt="google >
   
-  </a>
   
               
 </div>
