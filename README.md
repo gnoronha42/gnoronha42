@@ -26,7 +26,7 @@
 ### :iphone: Technologies	 
  
 ###### Front-end:
-![HTML Badge](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=white)
+![HTML Badge](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/>)
 ![CSS Badge](https://img.shields.io/badge/-CSS-085CEA?style=flat-square&logo=CSS3&logoColor=white)	
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-edb009?style=flat-square&logo=Javascript&logoColor=white)	
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-237ACD?style=flat-square&logo=Typescript&logoColor=white)	
