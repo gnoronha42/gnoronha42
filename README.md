@@ -38,8 +38,10 @@
 ###### :iphone:Mobile Front-end:
 <div>
 <img src="https://img.icons8.com/nolan/64/react-native.png"  alt="react-native" width="40" height="30/>
-<br>                                                                                                                                                                <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="40" height="30/>
-</div>                                                                                               
+                                                                                                                                                               <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+</div>           
+
+
 ######  👩‍💻: Back-end:
 <div>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
