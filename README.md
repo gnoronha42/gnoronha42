@@ -36,7 +36,7 @@
 </div>
 
 ###### Mobile Front-end:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-native.svg" alt="react" width="40" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-native-original.svg" alt="react" width="40" height="30"/>
 ![kotlin badge](https://img.shields.io/badge/-KOTLIN-orange)
 
 
