@@ -44,8 +44,7 @@
 
 
 ###### :iphone:Mobile Front-end:
-
-<img src="https://img.icons8.com/nolan/64/react-native.png"  alt="react-native" width="40" height="30/>
+<img src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native" width="40" height="30/>
         
 
 
