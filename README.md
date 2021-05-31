@@ -11,8 +11,9 @@
  
   
    <a href="mailto:gabrielnoronha.developer@gmail.com">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg alt="google >
   </a>
+              
   </div>
  <div>
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gnoronha42&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&cache_seconds=1800&locale=en" alt="gnoronha42" />
