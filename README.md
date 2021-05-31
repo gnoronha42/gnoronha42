@@ -44,7 +44,7 @@
 
 
 ###### :iphone:Mobile Front-end:
-<img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>        
+<img src="https://img.icons8.com/cute-clipart/40/000000/react-native.png"/>        
 
 
 
