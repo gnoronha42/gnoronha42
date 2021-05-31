@@ -29,12 +29,13 @@
 ### :iphone: Technologies	 
  
 ###### Front-end:
+<div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="30"/>
 <img src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="30"/>
-
+</div>
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-237ACD?style=flat-square&logo=Typescript&logoColor=white)	
 ![Angular Badge](https://img.shields.io/badge/-Angular-C4422C?style=flat-square&logo=Angular&logoColor=white)	
 ![SASS Badge](https://img.shields.io/badge/-SASS-CD6799?style=flat-square&logo=SASS&logoColor=white)	
