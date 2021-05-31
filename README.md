@@ -36,9 +36,9 @@
 </div>
 
 ###### :iphone:Mobile Front-end:
-<div>
+
 <img src="https://img.icons8.com/nolan/64/react-native.png"  alt="react-native" width="40" height="30/>
-</div>           
+        
 
 
 ######  👩‍💻: Back-end:
