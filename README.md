@@ -38,7 +38,6 @@
 ###### :iphone:Mobile Front-end:
 <div>
 <img src="https://img.icons8.com/nolan/64/react-native.png"  alt="react-native" width="40" height="30/>
-                                                                                                                                                               <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40" height="30 />
 </div>           
 
 
