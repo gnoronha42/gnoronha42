@@ -25,7 +25,7 @@
  
 ### 🖥️: Technologies	 
  
-###### Front-end:
+#### Front-end:
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30"/>
@@ -35,16 +35,19 @@
  
 </div>
 
+#####  👩‍💻: Back-end:
+<div>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
+</div>
+
+
+
 ###### :iphone:Mobile Front-end:
 
 <img src="https://img.icons8.com/nolan/64/react-native.png"  alt="react-native" width="40" height="30/>
         
 
 
-######  👩‍💻: Back-end:
-<div>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
-</div>
 
 
