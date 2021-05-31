@@ -23,7 +23,7 @@
 ### :stuck_out_tongue: Who Am I?
 -Full-Stack Developer .
  
-### :PC: Technologies	 
+### 🖥️: Technologies	 
  
 ###### Front-end:
 <div>
@@ -36,11 +36,9 @@
 </div>
 
 ###### :iphone:Mobile Front-end:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-native-original.svg" alt="react" width="40" height="30"/>
-![kotlin badge](https://img.shields.io/badge/-KOTLIN-orange)
+<a href="https://icons8.com/icon/t4YbEbA834uH/react-native">React Native icon by Icons8</a>
 
-
-######  :pc: Back-end:
+######  👩‍💻: Back-end:
 <div>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
